@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\555\\OneDrive\\Рабочий стол\\обучение\\Знакомство с языками программирования\\Семинары\\Seminar_3\\Task019\\Task019.csproj",
-      "projectName": "Task019",
-      "projectPath": "C:\\Users\\555\\OneDrive\\Рабочий стол\\обучение\\Знакомство с языками программирования\\Семинары\\Seminar_3\\Task019\\Task019.csproj",
+      "projectUniqueName": "C:\\Users\\555\\OneDrive\\Рабочий стол\\обучение\\Знакомство с языками программирования\\Семинары\\Seminar_3\\Task023DZ\\Task023DZ.csproj",
+      "projectName": "Task023DZ",
+      "projectPath": "C:\\Users\\555\\OneDrive\\Рабочий стол\\обучение\\Знакомство с языками программирования\\Семинары\\Seminar_3\\Task023DZ\\Task023DZ.csproj",
       "packagesPath": "C:\\Users\\555\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\555\\OneDrive\\Рабочий стол\\обучение\\Знакомство с языками программирования\\Семинары\\Seminar_3\\Task019\\obj\\",
+      "outputPath": "C:\\Users\\555\\OneDrive\\Рабочий стол\\обучение\\Знакомство с языками программирования\\Семинары\\Seminar_3\\Task023DZ\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\555\\AppData\\Roaming\\NuGet\\NuGet.Config"

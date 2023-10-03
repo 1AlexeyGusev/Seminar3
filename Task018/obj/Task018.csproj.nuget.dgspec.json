@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\555\\OneDrive\\Рабочий стол\\обучение\\Знакомство с языками программирования\\Семинары\\Seminar_3\\Task018\\Task018.csproj": {}
+    "c:\\Users\\555\\OneDrive\\Рабочий стол\\обучение\\Знакомство с языками программирования\\Семинары\\Seminar_3\\Task018\\Task018.csproj": {}
   },
   "projects": {
-    "C:\\Users\\555\\OneDrive\\Рабочий стол\\обучение\\Знакомство с языками программирования\\Семинары\\Seminar_3\\Task018\\Task018.csproj": {
+    "c:\\Users\\555\\OneDrive\\Рабочий стол\\обучение\\Знакомство с языками программирования\\Семинары\\Seminar_3\\Task018\\Task018.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\555\\OneDrive\\Рабочий стол\\обучение\\Знакомство с языками программирования\\Семинары\\Seminar_3\\Task018\\Task018.csproj",
+        "projectUniqueName": "c:\\Users\\555\\OneDrive\\Рабочий стол\\обучение\\Знакомство с языками программирования\\Семинары\\Seminar_3\\Task018\\Task018.csproj",
         "projectName": "Task018",
-        "projectPath": "C:\\Users\\555\\OneDrive\\Рабочий стол\\обучение\\Знакомство с языками программирования\\Семинары\\Seminar_3\\Task018\\Task018.csproj",
+        "projectPath": "c:\\Users\\555\\OneDrive\\Рабочий стол\\обучение\\Знакомство с языками программирования\\Семинары\\Seminar_3\\Task018\\Task018.csproj",
         "packagesPath": "C:\\Users\\555\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\555\\OneDrive\\Рабочий стол\\обучение\\Знакомство с языками программирования\\Семинары\\Seminar_3\\Task018\\obj\\",
+        "outputPath": "c:\\Users\\555\\OneDrive\\Рабочий стол\\обучение\\Знакомство с языками программирования\\Семинары\\Seminar_3\\Task018\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\555\\AppData\\Roaming\\NuGet\\NuGet.Config"

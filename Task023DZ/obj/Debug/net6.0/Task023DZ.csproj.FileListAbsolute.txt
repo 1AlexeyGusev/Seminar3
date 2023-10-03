@@ -1,0 +1,15 @@
+C:\Users\555\OneDrive\Рабочий стол\обучение\Знакомство с языками программирования\Семинары\Seminar_3\Task023DZ\obj\Debug\net6.0\Task023DZ.csproj.AssemblyReference.cache
+C:\Users\555\OneDrive\Рабочий стол\обучение\Знакомство с языками программирования\Семинары\Seminar_3\Task023DZ\obj\Debug\net6.0\Task023DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\555\OneDrive\Рабочий стол\обучение\Знакомство с языками программирования\Семинары\Seminar_3\Task023DZ\obj\Debug\net6.0\Task023DZ.AssemblyInfoInputs.cache
+C:\Users\555\OneDrive\Рабочий стол\обучение\Знакомство с языками программирования\Семинары\Seminar_3\Task023DZ\obj\Debug\net6.0\Task023DZ.AssemblyInfo.cs
+C:\Users\555\OneDrive\Рабочий стол\обучение\Знакомство с языками программирования\Семинары\Seminar_3\Task023DZ\obj\Debug\net6.0\Task023DZ.csproj.CoreCompileInputs.cache
+C:\Users\555\OneDrive\Рабочий стол\обучение\Знакомство с языками программирования\Семинары\Seminar_3\Task023DZ\bin\Debug\net6.0\Task023DZ.exe
+C:\Users\555\OneDrive\Рабочий стол\обучение\Знакомство с языками программирования\Семинары\Seminar_3\Task023DZ\bin\Debug\net6.0\Task023DZ.deps.json
+C:\Users\555\OneDrive\Рабочий стол\обучение\Знакомство с языками программирования\Семинары\Seminar_3\Task023DZ\bin\Debug\net6.0\Task023DZ.runtimeconfig.json
+C:\Users\555\OneDrive\Рабочий стол\обучение\Знакомство с языками программирования\Семинары\Seminar_3\Task023DZ\bin\Debug\net6.0\Task023DZ.dll
+C:\Users\555\OneDrive\Рабочий стол\обучение\Знакомство с языками программирования\Семинары\Seminar_3\Task023DZ\bin\Debug\net6.0\Task023DZ.pdb
+C:\Users\555\OneDrive\Рабочий стол\обучение\Знакомство с языками программирования\Семинары\Seminar_3\Task023DZ\obj\Debug\net6.0\Task023DZ.dll
+C:\Users\555\OneDrive\Рабочий стол\обучение\Знакомство с языками программирования\Семинары\Seminar_3\Task023DZ\obj\Debug\net6.0\refint\Task023DZ.dll
+C:\Users\555\OneDrive\Рабочий стол\обучение\Знакомство с языками программирования\Семинары\Seminar_3\Task023DZ\obj\Debug\net6.0\Task023DZ.pdb
+C:\Users\555\OneDrive\Рабочий стол\обучение\Знакомство с языками программирования\Семинары\Seminar_3\Task023DZ\obj\Debug\net6.0\Task023DZ.genruntimeconfig.cache
+C:\Users\555\OneDrive\Рабочий стол\обучение\Знакомство с языками программирования\Семинары\Seminar_3\Task023DZ\obj\Debug\net6.0\ref\Task023DZ.dll
